@@ -6,7 +6,7 @@ body {
 }
 
 #hero {
-  width: 592px;
+  width: 562px;
   margin: 0 auto 72px;
 }
 
@@ -34,21 +34,19 @@ span, a {
 
 p, #footer{
   color: #7d7987;
-
   font-size: 14px;
   line-height: 28px;
  }
 
  #footer a + a{
-   margin-left: 28px;
+  font-size: 14px;
+   line-height: 28px;
  }
 
  #line {
   width:  568px;
   height: 0px;
-
   margin: 0 auto 8px;
-
   border: 1px solid #eceff2;
  }
 
@@ -57,5 +55,3 @@ p, #footer{
   bottom: 0px;
   right: 0px;
  }
-
- 
