@@ -36,11 +36,14 @@ p, #footer{
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
+  margin-bottom: 280px;
  }
 
  #footer a + a{
   font-size: 14px;
    line-height: 28px;
+  
+   
  }
 
  #line {
@@ -48,6 +51,7 @@ p, #footer{
   height: 0px;
   margin: 0 auto 8px;
   border: 1px solid #eceff2;
+  
  }
 
  #balls{
